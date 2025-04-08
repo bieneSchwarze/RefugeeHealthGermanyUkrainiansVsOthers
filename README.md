@@ -5,7 +5,7 @@ This repository contains the Stata source code for the analyses conduted in the 
 
 Used data: SOEP v38.1 SUF (sample: IAB-BAMF-SOEP sample; M3-6 and M9)
 
-Source Files:
+Source Files Stata v18:
 A. Analysis for Ukrainian refugee sample:
 (1) Create ALCED data for analyses: ACLED data_importing and cleaning - APR_24.do
 (2) Data loading, cleaning, generation, and main analysis (complete cases): Ukraine-sample_2023_JUN_24.do
